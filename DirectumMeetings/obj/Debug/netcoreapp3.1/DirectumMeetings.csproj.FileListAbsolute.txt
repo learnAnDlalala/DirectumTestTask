@@ -1,0 +1,13 @@
+C:\Users\79128\source\repos\DirectumMeetings\bin\Debug\netcoreapp3.1\DirectumMeetings.exe
+C:\Users\79128\source\repos\DirectumMeetings\bin\Debug\netcoreapp3.1\DirectumMeetings.deps.json
+C:\Users\79128\source\repos\DirectumMeetings\bin\Debug\netcoreapp3.1\DirectumMeetings.runtimeconfig.json
+C:\Users\79128\source\repos\DirectumMeetings\bin\Debug\netcoreapp3.1\DirectumMeetings.runtimeconfig.dev.json
+C:\Users\79128\source\repos\DirectumMeetings\bin\Debug\netcoreapp3.1\DirectumMeetings.dll
+C:\Users\79128\source\repos\DirectumMeetings\bin\Debug\netcoreapp3.1\DirectumMeetings.pdb
+C:\Users\79128\source\repos\DirectumMeetings\obj\Debug\netcoreapp3.1\DirectumMeetings.csprojAssemblyReference.cache
+C:\Users\79128\source\repos\DirectumMeetings\obj\Debug\netcoreapp3.1\DirectumMeetings.AssemblyInfoInputs.cache
+C:\Users\79128\source\repos\DirectumMeetings\obj\Debug\netcoreapp3.1\DirectumMeetings.AssemblyInfo.cs
+C:\Users\79128\source\repos\DirectumMeetings\obj\Debug\netcoreapp3.1\DirectumMeetings.csproj.CoreCompileInputs.cache
+C:\Users\79128\source\repos\DirectumMeetings\obj\Debug\netcoreapp3.1\DirectumMeetings.dll
+C:\Users\79128\source\repos\DirectumMeetings\obj\Debug\netcoreapp3.1\DirectumMeetings.pdb
+C:\Users\79128\source\repos\DirectumMeetings\obj\Debug\netcoreapp3.1\DirectumMeetings.genruntimeconfig.cache

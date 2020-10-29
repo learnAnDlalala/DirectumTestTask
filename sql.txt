@@ -1,0 +1,22 @@
+1)запрос
+
+
+SELECT Surname, Name, Quantity
+FROM 
+    Sellers sel INNER JOIN Sales sal ON sel.ID = sal.IDSel
+    WHERE sal.Date BEETWEEN '20131001' AND '20131007'
+    ORDER BY sel.Surname, sel.Name
+
+_____________________________________
+2)запрос
+
+
+SELECT Products.Name,Sellers.Surname,Sellers.Name, ((Sales.Quentity/Arrivals.Quentity)*100) as Percent
+FROM
+	Sellers sel INNER JOIN Sales sal ON sel.ID = sal.IDSel
+	INNER JOIN Prodcut as products ON products.ID = sal.IDProd
+	INNER JOIN Arrivals as arrivals ON products = sal.IDprod
+ 	WHERE arrivals.Date BEETWEEN '20130907' AND '20131007'
+	ORDER BY products.Name,sel.Surname, sel.Name
+
+
